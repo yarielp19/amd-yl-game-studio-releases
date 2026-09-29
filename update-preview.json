@@ -1,0 +1,15 @@
+{
+  "product": "AMD-YL Game Studio",
+  "channel": "preview",
+  "version": "0.4.0",
+  "published": "2026-09-29T16:41:22Z",
+  "notes": {
+    "en": "Modern installer, integrated English/Spanish localization, component selection, Stardew one-click environment, and in-app update infrastructure.",
+    "es": "Instalador moderno, localización integrada English/Español, selección de componentes, entorno de Stardew en un clic e infraestructura de actualizaciones dentro de la aplicación."
+  },
+  "windows": {
+    "url": "https://github.com/yarielp19/amd-yl-game-studio-releases/releases/download/v0.4.0/AMD-YL-Game-Studio-Setup-0.4.0.exe",
+    "sha256": "9991d287875f5bbff3317d0ea4bbe31f8d88e238b1436e9895a30e22e0fb073f",
+    "size": 146002269
+  }
+}
